@@ -1,0 +1,31 @@
+{
+    "name": "Test",
+    "id": "test",
+    "desc": "DPT Test package",
+    "author": "Kitki30",
+    "license": "MIT",
+    "homepage": "https://github.com/Kitki30/Stick-DP",
+    "requires": [],
+    "sysCommands": {
+        "allowGui": false
+    },
+    "files": [
+        {
+            "name": "main.py",
+            "url": ""
+        }
+    ],
+    "commands": {
+        "run": "main.py"
+    },
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "sysVerMin": {
+        "major": 1,
+        "minor": 3,
+        "patch": 0
+    }
+}
