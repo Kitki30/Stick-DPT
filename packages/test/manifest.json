@@ -4,7 +4,7 @@
     "desc": "DPT Test package",
     "author": "Kitki30",
     "license": "MIT",
-    "homepage": "https://github.com/Kitki30/Stick-DP",
+    "homepage": "https://github.com/Kitki30/Stick-DPT",
     "requires": [],
     "sysCommands": {
         "allowGui": false
@@ -12,7 +12,7 @@
     "files": [
         {
             "name": "main.py",
-            "url": ""
+            "url": "raw.githubusercontent.com/Kitki30/Stick-DPT/refs/heads/main/packages/test/main.py"
         }
     ],
     "commands": {
