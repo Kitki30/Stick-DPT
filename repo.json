@@ -1,0 +1,18 @@
+{
+	"name": "stick-dpt-main",
+	"desc": "Official Stick DPT repository",
+	"root": "https://github.com/Kitki30/Stick-DPT",
+	"packages": {
+		"test": {
+			"name": "Test",
+			"desc": "Test dpt package, does nothing!",
+			"manifest": "",
+			"version": {
+					"major": 1,
+					"minor": 0,
+					"patch": 0,
+				}
+			}
+		}
+	}
+}
