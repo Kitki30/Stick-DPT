@@ -3,6 +3,6 @@
 	"desc": "Official Stick DPT repository",
 	"root": "https://github.com/Kitki30/Stick-DPT",
 	"packages": {
-		"test": ""
+		"test": "https://raw.githubusercontent.com/Kitki30/Stick-DPT/refs/heads/main/packages/test/manifest.json"
 	}
 }
